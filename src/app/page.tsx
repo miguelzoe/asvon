@@ -194,7 +194,7 @@ export default function HomePage() {
                 <Award className="h-8 w-8 text-asvon-gold" />
               </div>
               <div className="text-4xl font-bold text-asvon-gold mb-2">10+</div>
-              <div className="text-asvon-dark font-medium">Années d'Action</div>
+              <div className="text-asvon-dark font-medium">Années d&apos;Action</div>
             </div>
           </div>
         </div>
@@ -247,7 +247,7 @@ export default function HomePage() {
               </CardHeader>
               <CardContent>
                 <CardDescription className="text-base text-gray-600 leading-relaxed">
-                  Nous investissons dans l'éducation des orphelins pour leur offrir un avenir meilleur.
+                  Nous investissons dans l&apos;éducation des orphelins pour leur offrir un avenir meilleur.
                 </CardDescription>
               </CardContent>
             </Card>
@@ -357,8 +357,8 @@ export default function HomePage() {
               </CardHeader>
               <CardContent>
                 <p className="text-gray-600 italic leading-relaxed">
-                  "Grâce à ASVON, j'ai pu suivre une formation en couture. Aujourd'hui, je peux subvenir aux besoins de
-                  mes enfants avec dignité."
+                  &ldquo;Grâce à ASVON, j&apos;ai pu suivre une formation en couture. Aujourd&apos;hui, je peux subvenir aux besoins de
+                  mes enfants avec dignité.&rdquo;
                 </p>
               </CardContent>
             </Card>
@@ -377,8 +377,8 @@ export default function HomePage() {
               </CardHeader>
               <CardContent>
                 <p className="text-gray-600 italic leading-relaxed">
-                  "ASVON m'a permis de continuer mes études. Je suis maintenant en dernière année d'université grâce à
-                  leur soutien."
+                  &ldquo;ASVON m&apos;a permis de continuer mes études. Je suis maintenant en dernière année d&apos;université grâce à
+                  leur soutien.&rdquo;
                 </p>
               </CardContent>
             </Card>
@@ -391,14 +391,14 @@ export default function HomePage() {
                   </div>
                   <div>
                     <CardTitle className="text-lg text-asvon-dark">Famille N.</CardTitle>
-                    <CardDescription>Bénéficiaires d'aide d'urgence</CardDescription>
+                    <CardDescription>Bénéficiaires d&apos;aide d&apos;urgence</CardDescription>
                   </div>
                 </div>
               </CardHeader>
               <CardContent>
                 <p className="text-gray-600 italic leading-relaxed">
-                  "Lors de notre période difficile, ASVON nous a apporté nourriture et espoir. Nous leur serons
-                  éternellement reconnaissants."
+                  &ldquo;Lors de notre période difficile, ASVON nous a apporté nourriture et espoir. Nous leur serons
+                  éternellement reconnaissants.&rdquo;
                 </p>
               </CardContent>
             </Card>
@@ -457,7 +457,7 @@ export default function HomePage() {
           <div className="text-center mb-16 animate-on-scroll">
             <h3 className="text-4xl font-bold text-asvon-dark mb-6">Contactez-Nous</h3>
             <p className="text-xl text-gray-600 max-w-3xl mx-auto leading-relaxed">
-              Ensemble, nous pouvons faire la différence. N'hésitez pas à nous contacter
+              Ensemble, nous pouvons faire la différence. N&apos;hésitez pas à nous contacter
             </p>
           </div>
 
@@ -566,7 +566,7 @@ export default function HomePage() {
 
               <Card className="border-0 shadow-lg bg-gradient-to-br from-asvon-green/5 to-asvon-gold/5">
                 <CardContent className="p-6">
-                  <h5 className="font-semibold text-asvon-dark mb-3">Horaires d'ouverture</h5>
+                  <h5 className="font-semibold text-asvon-dark mb-3">Horaires d&apos;ouverture</h5>
                   <div className="space-y-2 text-sm text-gray-600">
                     <div className="flex justify-between">
                       <span>Lundi - Vendredi</span>
@@ -672,7 +672,7 @@ export default function HomePage() {
               <ul className="space-y-3 text-sm text-white/80">
                 <li>Soutien aux Orphelins</li>
                 <li>Aide aux Veuves & Veufs</li>
-                <li>Assistance d'Urgence</li>
+                <li>Assistance d&apos;Urgence</li>
                 <li>Formation Professionnelle</li>
                 <li>Microcrédits</li>
               </ul>
@@ -708,7 +708,7 @@ export default function HomePage() {
           <div className="border-t border-white/20 pt-8">
             <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
               <p className="text-white/60 text-sm">
-                © 2024 ASVON. Tous droits réservés. | Association reconnue d'utilité publique
+                © 2024 ASVON. Tous droits réservés. | Association reconnue d&apos;utilité publique
               </p>
               <div className="flex space-x-6 text-sm">
                 <a href="#" className="text-white/60 hover:text-asvon-gold transition-colors">
